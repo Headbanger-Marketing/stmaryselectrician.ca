@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://stmaryselectrician.ca/sitemap-index.xml
